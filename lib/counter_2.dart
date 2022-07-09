@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 
+// менин биринчи проектим
+void name() {
+  print("МУНУ ЧЫГАР");
+}
+
 void main() {
   runApp(const MyApp());
 }
